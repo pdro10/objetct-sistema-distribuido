@@ -1,0 +1,5 @@
+module Example {
+    interface Soma {
+        float calcularSoma(in float a, in float b);
+    };
+};
